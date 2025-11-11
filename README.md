@@ -1,10 +1,15 @@
 # Анализ оттока клиентов банка
 
 Bank Customer Churn Analysis
+
 https://img.shields.io/badge/Python-3.8%252B-blue
+
 https://img.shields.io/badge/Pandas-1.5%252B-orange
+
 https://img.shields.io/badge/Scikit--learn-1.0%252B-yellowgreen
+
 https://img.shields.io/badge/Jupyter-Notebook-orange
+
 https://img.shields.io/badge/License-MIT-lightgrey
 
 Комплексный анализ оттока клиентов банка с выявлением ключевых факторов риска, построением прогнозной модели и разработкой практических рекомендаций для бизнеса.
