@@ -18,7 +18,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Data files (if they are large)
+# Data files (large files)
 *.csv
 *.xlsx
 *.db
@@ -31,3 +31,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# ML models (large files)
+*.pkl
+*.joblib
+*.h5
