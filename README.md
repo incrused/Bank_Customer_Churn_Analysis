@@ -24,11 +24,17 @@ markdown
 ### Установка зависимостей
 
 pip install -r requirements.txt
+
 Запуск проекта
+
 bash
+
 jupyter notebook
+
 📁 Структура проекта
+
 text
+
 Bank_Customer_Churn_Analysis/
 ├── notebooks/
 │   ├── 01_data_preprocessing.ipynb
