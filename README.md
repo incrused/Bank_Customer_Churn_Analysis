@@ -55,7 +55,7 @@ Bank_Customer_Churn_Analysis/
 ├── data/
 │   └── Bank Customer Churn.csv
 ├── docs/
-│   └── Итоговая_работа_по_программе.docx
+│   └── Documentation.docx
 ├── requirements.txt
 └── README.md
 ```
