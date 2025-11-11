@@ -53,7 +53,7 @@ Bank_Customer_Churn_Analysis/
 ├── notebook/
 │   ├── Bank_Customer_Churn_Analysis.ipynb
 ├── data/
-│   └── Bank Customer Churn.csv
+│   └── Customer-Churn-Records.csv
 ├── docs/
 │   └── Documentation.docx
 ├── requirements.txt
