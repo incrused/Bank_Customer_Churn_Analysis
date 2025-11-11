@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 Запуск проекта
 
-bash
+```bash
 
 jupyter notebook
 
