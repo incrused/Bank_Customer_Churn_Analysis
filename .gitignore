@@ -27,7 +27,7 @@ env/
 Thumbs.db
 
 # Data (if files are large)
-# data/Bank Customer Churn.csv
+# data/Customer-Churn-Records.csv
 
 # Logs
 *.log
