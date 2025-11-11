@@ -50,11 +50,8 @@ jupyter notebook
 
 ```
 Bank_Customer_Churn_Analysis/
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_eda_analysis.ipynb
-│   ├── 03_statistical_analysis.ipynb
-│   └── 04_modeling.ipynb
+├── notebook/
+│   ├── Bank_Customer_Churn_Analysis.ipynb
 ├── data/
 │   └── Bank Customer Churn.csv
 ├── docs/
@@ -106,24 +103,24 @@ Bank_Customer_Churn_Analysis/
 
 ### Ноутбуки анализа (рекомендуемая последовательность):
 
-1. **`01_data_preprocessing.ipynb`** - Блоки 1-2
+1. Блоки 1-2
    - Загрузка и первичный анализ данных
    - Предобработка и очистка данных
    - Кодирование категориальных переменных
    - Feature engineering
 
-2. **`02_eda_analysis.ipynb`** - Блоки 3-5
+2. Блоки 3-5
    - Разведочный анализ данных (EDA)
    - Визуализация распределений
    - Анализ аномалий и выбросов
    - Исследовательские вопросы
 
-3. **`03_statistical_analysis.ipynb`** - Блоки 6-7
+3. Блоки 6-7
    - Проверка статистических гипотез
    - Корреляционный анализ
    - Тесты значимости
 
-4. **`04_modeling.ipynb`** - Блок 8
+4. Блок 8
    - Подготовка данных для ML
    - Обучение модели логистической регрессии
    - Оценка качества модели
